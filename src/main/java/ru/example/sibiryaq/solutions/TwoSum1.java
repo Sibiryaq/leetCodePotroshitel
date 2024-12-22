@@ -1,6 +1,6 @@
 package ru.example.sibiryaq.solutions;
 
-public class TwoSum {
+public class TwoSum1 {
 
     public int[] twoSum(int[] nums, int target) {
         for (int i = 0; i < nums.length; i++) {
