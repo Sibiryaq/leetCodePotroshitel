@@ -4,7 +4,7 @@ import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-public class IntersectionOfTwoArrays349 {
+public class IntersectionOfTwoArrays_349 {
 
     public static void main(String[] args) {
         int[] nums1 = {1, 2, 2, 1};

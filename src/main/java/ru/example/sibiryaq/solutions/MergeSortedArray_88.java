@@ -1,6 +1,6 @@
 package ru.example.sibiryaq.solutions;
 
-public class MergeSortedArray88 {
+public class MergeSortedArray_88 {
     public static void main(String[] args) {
         int[] nums1 = {1, 2, 3, 0, 0, 0};
 
