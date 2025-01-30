@@ -4,7 +4,7 @@ public class StringToInteger_8 {
     public static void main(String[] args) {
 
         System.out.println(myAtoi("42")); // 42
-        System.out.println(myAtoi(" - 042")); //-42
+        System.out.println(myAtoi(" -042")); //-42
         System.out.println(myAtoi("1337c0d3")); //1337
         System.out.println(myAtoi("0-1")); //0
         System.out.println(myAtoi("words and 987")); //0
