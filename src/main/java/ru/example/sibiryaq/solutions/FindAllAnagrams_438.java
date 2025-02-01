@@ -4,8 +4,8 @@ import java.util.*;
 
 public class FindAllAnagrams_438 {
     public static void main(String[] args) {
-        findAnagrams("cbaebabacd", "abc");
-        findAnagrams("", "");
+        System.out.println(findAnagrams("cbaebabacd", "abc"));
+        System.out.println(findAnagrams("", ""));
     }
 
 
