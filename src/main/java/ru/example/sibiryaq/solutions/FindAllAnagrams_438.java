@@ -8,9 +8,6 @@ public class FindAllAnagrams_438 {
         System.out.println(findAnagrams("", ""));
     }
 
-
-
-
     public static List<Integer> findAnagrams(String s, String p) {
         char[] sc = s.toCharArray();
         char[] pc = p.toCharArray();
