@@ -1,10 +1,13 @@
 package ru.example.sibiryaq.solutions;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 
 public class IncrementBigNumber {
     public static void main(String[] args) {
         System.out.println(Arrays.toString(increment(new int[]{1, 2, 3, 9})));
+        ArrayList<String> list = new ArrayList<>();
+        System.out.println(list.getClass());
     }
 
     /**
