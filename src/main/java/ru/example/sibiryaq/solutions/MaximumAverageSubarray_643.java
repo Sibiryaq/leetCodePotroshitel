@@ -7,7 +7,6 @@ public class MaximumAverageSubarray_643 {
         findMaxAverage(nums, 4);
     }
 
-
     public static double findMaxAverage(int[] nums, int k) {
         int maxSum = 0;
         int currentSum = 0;

@@ -7,9 +7,7 @@ public class CanPlaceFlowers_605 {
         System.out.println(canPlaceFlowers(massive1, 2)); // false
     }
 
-
     public static boolean canPlaceFlowers(int[] flowerbed, int n) {
-
         if (n == 0) {
             return true;
         }
