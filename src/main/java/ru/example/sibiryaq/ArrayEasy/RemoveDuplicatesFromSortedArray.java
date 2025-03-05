@@ -1,8 +1,12 @@
 package ru.example.sibiryaq.ArrayEasy;
 
+import java.util.LinkedHashMap;
+import java.util.Map;
+
 public class RemoveDuplicatesFromSortedArray {
     public static void main(String[] args) {
         System.out.println(removeDuplicates(new int[]{1, 1, 2}));
+        Map<Integer, Integer> map = new LinkedHashMap<>();
     }
 
 
